@@ -1,0 +1,10 @@
+.keyboard {
+  display: grid;
+  height: 300px;
+  width: 300px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-gap: 10px;
+  padding: 10px;
+  border-radius: 0 0 10px 10px;
+}

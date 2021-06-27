@@ -1,0 +1,7 @@
+.calculator {
+  display: block;
+  width: auto;
+  box-shadow: rgba(99, 98, 98, 0.12) 0px 1px 3px,
+    rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  border-radius: 10px;
+}
